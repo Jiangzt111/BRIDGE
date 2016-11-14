@@ -28,7 +28,6 @@ int main() {
 	delete[] chosen;
 	delete[] bridge;
 	delete[] cost;
-
 	return 0;
 }
 
